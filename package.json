@@ -1,0 +1,21 @@
+{
+  "name": "hassan00f7-atm",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.15"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
